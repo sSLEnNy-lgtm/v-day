@@ -12,7 +12,7 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Pookie balizz... 🥺",
+    "statistically speaking, yes is the move 😏 Pookie.. ",
     "I’ll pretend I didn’t hear that… try again 😜",
     "This hurts… but in a character-development way 😢",
     "SUREEE??? 💔",
@@ -22,9 +22,9 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
+    "go ahead… press no 😌 let’s see if you’re brave",
+    "most people who click no end up smiling 👀",
+    "yes has better consequences 😈",
     "click no, I dare you 😏"
 ]
 
