@@ -1,5 +1,5 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
+    "https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif",    // 0 normal
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
@@ -12,11 +12,11 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
+    "Pookie balizz... 🥺",
+    "I’ll pretend I didn’t hear that… try again 😜",
+    "This hurts… but in a character-development way 😢",
+    "SUREEE??? 💔",
+    "Alright, villain arc activated 😌",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
